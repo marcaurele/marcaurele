@@ -11,9 +11,9 @@
   - woodworking
 - 👯 I’m collaborating on:
   - [lairdubois.fr](https://github.com/lairdubois)
-  - <https://cyclomaniacs.ch>
+  - <http://cyclomaniacs.ch>
 - ⚡ Fun fact: I took 2 sabbatical years to travel and mountain bike the great divide (US):
-  - <https://shakeyourlife.com>
-  - <https://come-away-with.me>
-  - <https://bikingthegreatdivide.com>
+  - <http://shakeyourlife.com>
+  - <http://come-away-with.me>
+  - <http://bikingthegreatdivide.com>
 
