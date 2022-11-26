@@ -16,4 +16,5 @@
   - <http://shakeyourlife.com>
   - <http://come-away-with.me>
   - <http://bikingthegreatdivide.com>
-
+- Find me at:
+  - [Mastodon](https://mastodon.social/@marcaurele)
