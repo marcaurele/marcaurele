@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [Pix4d cloud services](https://github.com/Pix4D/)
-  - HashiStack
+  - [Pix4d cloud services](https://github.com/Pix4D/) with a lot of Python
+  - HashiStack (Consul, Nomad, Vault)
   - [GCE IPX 800](https://github.com/marcaurele/gce-ipx800)
 - 🌱 I’m currently learning:
-  - AWS infra
+  - Rust
+  - Golang
   - [pulumi](https://github.com/pulumi/pulumi)
   - [openpolicyagent](https://github.com/open-policy-agent/opa)
   - [woodworking](https://www.lairdubois.fr/@marcaurele)
