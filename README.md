@@ -8,7 +8,7 @@
   - AWS infra
   - [pulumi](https://github.com/pulumi/pulumi)
   - [openpolicyagent](https://github.com/open-policy-agent/opa)
-  - woodworking
+  - [woodworking](https://www.lairdubois.fr/@marcaurele)
 - 👯 I’m collaborating on:
   - [lairdubois.fr](https://github.com/lairdubois)
   - <http://cyclomaniacs.ch>
