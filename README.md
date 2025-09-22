@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [Pix4d cloud services](https://github.com/Pix4D/) with a lot of Python, AWS, Terraform
+  - [Pix4d cloud services](https://github.com/Pix4D/) with a lot of Python, AWS, Terraform.
   - My home server with HashiStack (Consul, Nomad, Vault)
   - [GCE IPX 800](https://github.com/marcaurele/gce-ipx800)
 - 🌱 I’m currently learning/playing with:
@@ -21,3 +21,4 @@
   - [Mastodon](https://mastodon.social/@marcaurele)
   - [GitLab](https://gitlab.com/marcaurele/)
   - _Gone from Twitter_
+  - [My manager readme](./MANAGER.md)
