@@ -12,10 +12,10 @@
   - [woodworking](https://www.lairdubois.fr/@marcaurele)
 - 👯 I’m collaborating on:
   - <http://cyclomaniacs.ch> as a mountainbike coach
-  - [Apache Committer](https://github.com/orgs/apache/teams/cloudstack-committers/members), but haven't contributed since a while
+  - [Apache Committer](https://github.com/orgs/apache/teams/cloudstack-committers/members) for the [CloudStack IaaS project](https://github.com/apache/cloudstack/), but haven't contributed since a while
 - ⚡ Fun fact: I took 2 sabbatical years to travel and mountain bike the great divide (US):
   - <http://shakeyourlife.brothier.org>
-  - <http://come-away-with.racobro.ch>
+  - <http://come-away-with-me.racobro.ch>
   - <http://bikingthegreatdivide.com>
 - Find me at:
   - [Mastodon](https://mastodon.social/@marcaurele)
